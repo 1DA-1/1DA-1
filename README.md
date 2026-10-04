@@ -17,8 +17,10 @@
 - 💼 Open to internship and co-op opportunities
 
 
-## 🚀 Projects
-- [LitePost](https://github.com/1DA-1/LitePost.git) — Twitter-style social app. Users can post, reply in threads, like posts, and edit their profiles. | PHP, Laravel, SQLite |
+| Project | Description | Tech |
+| --- | --- | --- |
+| [LitePost](https://github.com/1DA-1/LitePost) | Twitter-style social app. Users can post, reply in threads, like posts, and edit their profiles. | PHP, Laravel, SQLite |
+
 ## 🛠️ Tech Stack
 
 **Languages**<br>
