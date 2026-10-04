@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2540,100:185FA5&height=120&section=header&text=Dana%20B.&fontSize=42&fontColor=ffffff&fontAlignY=40" alt="Dana" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2540,100:185FA5&height=120&section=header&text=Dana%20Bamaga.&fontSize=42&fontColor=ffffff&fontAlignY=40" alt="Dana" />
 
 ### Third-year Computer Science student building AI/ML projects
 
